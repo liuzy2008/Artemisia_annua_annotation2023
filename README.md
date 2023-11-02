@@ -17,9 +17,13 @@ This genome annotation file follows the GFF file format specification and can be
 Please cite the appropriate reference(s) when using data.
 
 - **For Genome Annotation File**
+  
+  - **url：**     https://github.com/liuzy2008/Artemisia_annua_annotation2023
 
-https://github.com/liuzy2008/Artemisia_annua_annotation2023
-( The research paper is currently being prepared for publication )
+  - **Publication:**    Liu, Z., Du, Y., Sun, Z. et al. Manual correction of genome annotation improved alternative splicing identification of Artemisia annua. Planta 258, 83 (2023). https://doi.org/10.1007/s00425-023-04237-6
+
+
+
 
 - **For Genome**
 
